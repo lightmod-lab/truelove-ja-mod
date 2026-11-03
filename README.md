@@ -1,6 +1,6 @@
 # 真恋～寄语枫秋～ 日本語化MOD
 
-Steam 版 **『真恋～寄语枫秋～』**（True love ~Confide to the maple~ / SP-time）の
+Steam 版 **『真恋～寄语枫秋～』**（True love \~Confide to the maple\~ / SP-time）の
 **本文を日本語で読めるようにする非公式MOD**です。
 
 `patch.xp3` を1つ置くだけで適用でき、**削除すれば完全に元に戻ります**。
